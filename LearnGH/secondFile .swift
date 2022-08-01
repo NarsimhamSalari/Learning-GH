@@ -9,5 +9,5 @@ import Foundation
 
 class secondFile {
     
-    var name : String?
+    var name : String = "naidu"
 }
